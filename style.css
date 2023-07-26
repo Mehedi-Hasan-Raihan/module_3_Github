@@ -1,15 +1,15 @@
 h1{
-    font-weight: 100;
-    font-size: 100px;
-    color: darkorchid;
+    font-weight : 100;
+    font-size : 100px;
+    color : darkorchid;
 }
 p{
-    color: rgb(74, 22, 3);
+    color : rgb(74, 22, 3);
 }
 
 img{
-    width: 50%;
+    width : 50%;
 }
 div{
-    padding-left: 40%;
+    padding-left : 40%;
 }
