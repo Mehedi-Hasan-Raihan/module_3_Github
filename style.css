@@ -6,3 +6,10 @@ h1{
 p{
     color: coral;
 }
+
+img{
+    width: 50%;
+}
+div{
+    padding-left: 40%;
+}
